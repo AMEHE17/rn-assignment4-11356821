@@ -17,5 +17,7 @@ This project is a mobile app created for the DCIT202 Mobile Application Developm
 - File: src/components/JobCard.js
 
 ## Screenshots
+![SCREENSHOT1](<Screens.jpg>)
+![SCREENSHOT2](<Login.jpg>)
 
 
